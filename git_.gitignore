@@ -1,0 +1,13 @@
+# Ignorer les fichiers temporaires
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignorer les datasets volumineux
+data/*.csv
+data/*.xlsx
+data/*.parquet
+
+# Ignorer les modèles sauvegardés
+models/*.joblib
+models/*.pkl
