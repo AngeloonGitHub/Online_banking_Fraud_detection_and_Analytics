@@ -10,12 +10,6 @@ Ce projet vise à détecter les transactions frauduleuses en utilisant l'apprent
 - Construire et évaluer des modèles de détection de fraude ⚡
 - Optimiser les hyperparamètres pour améliorer la précision 🔍
 
-## 📂 Structure du projet
-- `data/` : Contient les jeux de données (éviter d'uploader des fichiers volumineux)
-- `notebooks/` : Contient les notebooks pour l'analyse exploratoire et la modélisation
-- `src/` : Scripts Python pour le préprocessing et l'entraînement du modèle
-- `models/` : Modèles entraînés sauvegardés (joblib/pickle)
-- `requirements.txt` : Liste des bibliothèques utilisées
 
 ## 🛠️ Installation
 git clone ______
