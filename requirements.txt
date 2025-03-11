@@ -1,0 +1,10 @@
+#Requirements
+
+```plaintext
+numpy
+pandas
+scikit-learn
+xgboost
+matplotlib
+seaborn
+joblib
